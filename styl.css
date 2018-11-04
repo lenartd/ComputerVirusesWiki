@@ -1,0 +1,19 @@
+﻿h3
+{
+ 	font-style:oblique;
+	font-family:"Times New Roman", Times, serif;
+}
+h2
+{
+	text-decoration:underline;
+}
+body
+{
+	background-color:#e6ffff;
+	margin-left:110px;
+	margin-right:110px;
+}
+p
+{
+	text-align:justify;
+}
